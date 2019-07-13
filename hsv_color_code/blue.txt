@@ -1,3 +1,0 @@
-lower = np.array([94,80,2])
-
-upper = np.array([126,255,255])
