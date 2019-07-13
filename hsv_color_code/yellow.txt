@@ -1,0 +1,2 @@
+    lower = np.array([22,60,200])
+    upper = np.array([60,255,255])
